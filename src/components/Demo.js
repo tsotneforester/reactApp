@@ -1,4 +1,4 @@
-import "./demo.css";
+import "./Demo.css";
 
 function demo() {
   return <div>Hello World</div>;

@@ -2,7 +2,7 @@ import "./App.css";
 import Demo from "./components/Demo";
 
 function App() {
-  return <Demo />;
+  return "<Demo />";
 }
 
 export default App;
