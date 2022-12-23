@@ -1,0 +1,6 @@
+@import "../../root/functions.scss";
+
+div {
+  @include box(200px, 200px, 0, green);
+  @include flex(center, center, row);
+}
