@@ -1,7 +1,7 @@
 import "./Demo.css";
 
 function Demo() {
-  return <div>Hello World</div>;
+  return <h1>Hello World</h1>;
 }
 
 export default Demo;
