@@ -1,8 +1,10 @@
 import "./App.css";
-import Demo from "./components/Demo";
+//imrse
+//rafce
+//imrr
 
 function App() {
-  return <Demo />;
+  return <h1>Hello World</h1>;
 }
 
 export default App;
