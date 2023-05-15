@@ -1,5 +1,5 @@
 import "./App.css";
-import { FaBasketballBall } from "react-icons/fa";
+import { TbBrandReactNative } from "react-icons/tb";
 import { GlobalStyle } from "./root/GlobalStyle";
 //imrse
 //rafce
@@ -9,7 +9,7 @@ function App() {
   return (
     <h1>
       <GlobalStyle />
-      <FaBasketballBall /> Hello World
+      <TbBrandReactNative /> Hello World
     </h1>
   );
 }

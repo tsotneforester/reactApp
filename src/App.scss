@@ -1,1 +1,11 @@
 @import "root/functions.scss";
+
+#root {
+  @include flex(center, center, row);
+  min-height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  @include text(36px, green, center, 500);
+}

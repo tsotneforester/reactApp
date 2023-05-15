@@ -59,11 +59,9 @@ h4,
 h5,
 h6,
 p {
-  font-size: inherit;
   font-weight: 400;
   margin: 0;
   padding: 0;
-  text-align: center;
 }
 
 pre {
