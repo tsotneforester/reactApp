@@ -7,10 +7,12 @@ import { GlobalStyle } from "./root/GlobalStyle";
 
 function App() {
   return (
-    <h1>
+    <>
       <GlobalStyle />
-      <TbBrandReactNative /> Hello World
-    </h1>
+      <h1>
+        <TbBrandReactNative /> Hello World
+      </h1>
+    </>
   );
 }
 
