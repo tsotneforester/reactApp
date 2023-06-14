@@ -18,6 +18,12 @@
   align-items: $a;
 }
 
+@mixin border($c: red, $f: 2px, $s: dashed) {
+  border-width: $f;
+  border-style: $s;
+  border-color: $c;
+}
+
 @mixin view($breakpoint) {
   @media only screen and (min-width: $breakpoint) {
     @content;
